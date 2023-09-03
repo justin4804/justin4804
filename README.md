@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justin4804
-- 👀 I’m interested in computer science as a career
-- 🌱 I’m currently learning CS50 and also going to start college soon.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science as a career and currently pursuing Bachelors in Computer Science Engineering.
+-  🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on projects related to data science, data analysis and machine learning models
 - 📫 How to reach me gmail: jdgt.js.0408@gmail.com
                   instagram: justinsaj_04
 
